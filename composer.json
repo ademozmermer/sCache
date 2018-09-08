@@ -1,0 +1,13 @@
+{
+    "name": "ademozmermer/cache",
+    "description": "Php html cache",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ademozmermer",
+            "email": "adem@diyezmedia.com"
+        }
+    ],
+    "require": {}
+}
