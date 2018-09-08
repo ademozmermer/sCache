@@ -9,5 +9,10 @@
             "email": "adem@diyezmedia.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload":{
+        "psr-4": {
+            "ademozmermer\\sCache\\":"src"
+        }
+    }
 }
